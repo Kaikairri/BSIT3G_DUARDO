@@ -1,5 +1,5 @@
 .cont{
- background-image: url(/Images/bgito.jpg);
+ background-image: url(/IPT1_DUARDO/Images/bgito.jpg);
  background-color: #9A8B80;
  background-blend-mode: multiply;
  height:760px;
@@ -28,6 +28,21 @@ nav a {
     text-decoration: none;
     font-size:20px;
 }
+
+a:hover {
+    background-color: #F6C23A;
+    color:#102752; 
+    padding:5px;
+    border-radius:7%;
+}
+
+.h {
+    background-color: #F6C23A;
+    color:#102752; 
+    padding:5px;
+    border-radius:7%;
+}
+
 .ham-menu{
     height:20px;
     width:20px;
@@ -75,7 +90,7 @@ nav a {
   width: 250px;
   padding-top: 65px;
   z-index: 10;
-  background-image:url(/Images/scream.jpg);
+  background-image:url(/IPT1_DUARDO/Images/scream.jpg);
   background-size:200%;
   background-repeat:no-repeat;
   background-color:#9A8B80;
@@ -133,6 +148,7 @@ nav a {
   border-radius:100%;
   margin-left:80px;
   margin-top:100px;
+  background-color: rgba(255,255,255,0);
 }
 
 .vl{
@@ -165,8 +181,8 @@ nav a {
 }
 
 .box img{
-  height:80px;
-  height:80px;
+  height:90px;
+  width:90px;
 }
 
 .b1{
@@ -174,6 +190,7 @@ nav a {
   width:320px;
   background-color:#122034;
   border:solid 2px #F5F5F5;
+  color:white;
 }
 
 .foot{
