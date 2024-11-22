@@ -9,6 +9,7 @@ margin-top:-6px;
  height:760px;
  background-repeat:no-repeat;
  background-size:120%;
+ margin:-20px;
 }
 
 nav ul {
@@ -96,7 +97,7 @@ a:hover {
   background-image:url(/IPT1_DUARDO/Images/scream.jpg);
   background-size:200%;
   background-repeat:no-repeat;
-  background-color:#9A8B80;
+  background-color:#F1E706;
   background-blend-mode: multiply;
   box-shadow: -10px 0 10px rgb(0,0,0,0.1);
   flex-direction: column;
@@ -195,8 +196,8 @@ h3{
 .icons{
     position: absolute;
     justify-content: center;
-    right:70px;
-    top:460px;
+    right:60px;
+    top:450px;
     width:85px;
     padding:5px;
     
