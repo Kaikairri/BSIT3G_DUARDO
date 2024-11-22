@@ -32,3 +32,22 @@ input{
   color:white;
   border:solid 1px #1C3D7B;
 }
+
+.div{
+  background-color:#1A773C;
+  margin:-20px;
+  height:500px;
+  padding:50px;
+}
+
+h1{
+  margin-top:20px;
+  color:#C9CEE1;
+}
+
+a{
+  height:10px;
+  width:20px;
+  background-color:#C9CEE1;
+  color:#061D66;
+}

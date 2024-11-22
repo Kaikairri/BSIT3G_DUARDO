@@ -127,7 +127,7 @@ a:hover {
 }
 
 .a-bar:hover {
-  background-color: rgb(56,56,56);
+  background-color: rgba(20, 39, 82, 1);
   color: rgb(224,224,224);
 }
 

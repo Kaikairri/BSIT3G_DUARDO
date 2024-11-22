@@ -94,7 +94,7 @@ a:hover {
   background-image:url(/IPT1_DUARDO/Images/scream.jpg);
   background-size:200%;
   background-repeat:no-repeat;
-  background-color:#F1E706;
+  background-color:#C2AF0A;
   background-blend-mode: multiply;
   box-shadow: -10px 0 10px rgb(0,0,0,0.1);
   flex-direction: column;
@@ -124,7 +124,7 @@ a:hover {
 }
 
 .a-bar:hover {
-  background-color: rgb(56,56,56);
+  background-color: rgba(20, 39, 82, 1);
   color: rgb(224,224,224);
 }
 
@@ -134,7 +134,7 @@ a:hover {
   margin-top:-20px;
   margin-bottom: 20px;
   font-family: 'Brush Script MT', cursive;
-  border: 3px solid #F6C23A;
+  border: 3px solid #C69617;
   border-radius:100%;
   background-color:#122034;
 }

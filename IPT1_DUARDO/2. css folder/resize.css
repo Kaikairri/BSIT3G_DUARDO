@@ -1,0 +1,39 @@
+body{
+padding:0px;
+}
+
+.resi{
+  padding:30px;
+  align-content:center;
+  height:500px;
+  width:100%;
+  border:solid 1px black;
+  background-color:#989214;
+  color:#C9CEE1;
+  margin:-20px;
+}
+
+.resi h1{
+  margin:20px;
+}
+
+.resi h2{
+  margin-top:100px;
+  
+}
+
+.resi button{
+  height:50px;
+  width:100px;
+}
+
+.huwat{
+  height:400px;
+  width:350px;
+  background-color:#1A773C;
+  padding:20px;
+  text-align:center;
+  border:solid 3px;
+  margin-left:300px;
+  
+}
