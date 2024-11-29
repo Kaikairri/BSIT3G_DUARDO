@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="CSS/resize.css">
+  <title></title>
+</head>
+<h1>Resizes text</h1>
+<body>
+  <h2 id ="Id" style="font-size:16px">Basta text to</h2>
+<button onclick="increase()">add size</button>
+<button onclick="decrease()">minus size</button>
+
+
+<script>
+const text = document.getElementById("Id");
+  let currentSize =16;
+ 
+ function increase(){
+   currentSize +=3;
+   text.style.fontSize = currentSize +"px"
+ }
+ 
+  function decrease(){
+   currentSize = Math.max(1, currentSize -3);
+   text.style.fontSize = currentSize +"px"
+ }
+ 
+  
+</script>
+</body>
+
+</html>
